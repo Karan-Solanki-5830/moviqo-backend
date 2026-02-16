@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+*.db
+.DS_Store
+.vscode/
+.idea/
+instance/
+moviqo.db
