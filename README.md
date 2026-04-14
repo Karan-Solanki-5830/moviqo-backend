@@ -43,8 +43,3 @@ models/   # SQLAlchemy models
 data/     # Seed data or static datasets
 run.py    # Entry point
 
-## Notes
-
-- Never commit `.env` — it's gitignored
-- `moviqo.db` and any local SQLite files are also gitignored
-- Set `FLASK_ENV=production` when deploying to disable debug mode
